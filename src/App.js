@@ -21,34 +21,4 @@ function App() {
   );
 }
 
-function App() {
-  return (
-    <div>
-      <Navigate/>
-      <OffersBanner/>
-      <RestaurentChain/>
-      <RestaurentOnline/>
-      <BestRest/>
-      <Footer/>
-    </div>
-
-    
-  );
-}
-
-function App() {
-  return (
-    <div>
-      <Navigate/>
-      <OffersBanner/>
-      <RestaurentChain/>
-      <RestaurentOnline/>
-      <BestRest/>
-      <Footer/>
-    </div>
-
-    
-  );
-}
-
 export default App;
