@@ -16,6 +16,23 @@ function App() {
       <BestRest/>
       <Footer/>
     </div>
+
+
+  );
+}
+
+function App() {
+  return (
+    <div>
+      <Navigate/>
+      <OffersBanner/>
+      <RestaurentChain/>
+      <RestaurentOnline/>
+      <BestRest/>
+      <Footer/>
+    </div>
+
+    
   );
 }
 
