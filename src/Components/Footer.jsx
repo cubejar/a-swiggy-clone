@@ -31,11 +31,6 @@ function Footer() {
                     <h5 style={{color:"white"}}>Contact us</h5>
                     <p>Help & Support</p>
                     <p>Partner with us</p>
-                    <p>Ride with us</p>
-                    <h5 style={{color:"white"}} className='mt-5'>Legal</h5>
-                    <p>Terms & Conditions</p>
-                    <p>Cokkie Policy</p>
-                    <p>Privacy Policy</p>
                 </div>
                 <div style={{color:"#9e9e9e"}}>
                     <h5 style={{color:"white"}}>We deliver to the following places:</h5>
