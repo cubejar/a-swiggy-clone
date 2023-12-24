@@ -30,7 +30,7 @@ function Footer() {
                 </div>
                 <div style={{color:"#9e9e9e"}}>
                     <h5 style={{color:"white"}}>We may deliver to the following places:</h5>
-                    <p>Hyderabad</p>
+                    <p>Hyd</p>
                     <p>Mumbai</p>
                     <button style={{padding:"10px",background:"transparent",color:"#9e9e9e",border:"2px solid rgba(196, 198, 202, 0.1)",borderRadius:"20px"}}>589 cities    <i className="ms-5 fa-solid fa-angle-down"></i></button>
                 </div>
