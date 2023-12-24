@@ -31,7 +31,7 @@ function Footer() {
                     <h5 style={{color:"white"}}>Contact us</h5>
                 </div>
                 <div style={{color:"#9e9e9e"}}>
-                    <h5 style={{color:"white"}}>We deliver to the following places:</h5>
+                    <h5 style={{color:"white"}}>We may deliver to the following places:</h5>
                     <p>Hyderabad</p>
                     <p>Delhi</p>
                     <p>Mumbai</p>
