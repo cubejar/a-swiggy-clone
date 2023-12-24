@@ -29,8 +29,6 @@ function Footer() {
                 </div>
                 <div style={{color:"#9e9e9e"}}>
                     <h5 style={{color:"white"}}>Contact us</h5>
-                    <p>Help & Support</p>
-
                 </div>
                 <div style={{color:"#9e9e9e"}}>
                     <h5 style={{color:"white"}}>We deliver to the following places:</h5>
