@@ -38,14 +38,12 @@ function Footer() {
                     <p>Privacy Policy</p>
                 </div>
                 <div style={{color:"#9e9e9e"}}>
-                    <h5 style={{color:"white"}}>We deliver to:</h5>
+                    <h5 style={{color:"white"}}>We deliver to the following places:</h5>
                     <p>Bangalore</p>
-                    <p>Gurgaon</p>
                     <p>Hyderabad</p>
                     <p>Delhi</p>
                     <p>Mumbai</p>
-                    <p>Pune </p>
-                    <button style={{padding:"10px",background:"transparent",color:"#9e9e9e",border:"1px solid rgba(196, 198, 202, 0.1)",borderRadius:"20px"}}>589 cities    <i className="ms-5 fa-solid fa-angle-down"></i></button>
+                    <button style={{padding:"10px",background:"transparent",color:"#9e9e9e",border:"2px solid rgba(196, 198, 202, 0.1)",borderRadius:"20px"}}>589 cities    <i className="ms-5 fa-solid fa-angle-down"></i></button>
                 </div>
             </div>
        </div>
