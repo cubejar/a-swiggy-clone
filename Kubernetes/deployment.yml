@@ -17,7 +17,7 @@ spec:
       terminationGracePeriodSeconds: 30
       containers:
       - name: swiggy-app
-        image: cubejar/swiggy-clone:replaceImageTag
+        image: cubejar/swiggy-clone:45
         imagePullPolicy: "Always"
         ports:
         - containerPort: 3000
