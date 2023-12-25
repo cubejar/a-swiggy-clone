@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   annotations:
-    argocd.argoproj.io/sync-options: Prune=true, Replace=true, ServerSideApply=true
+    argocd.argoproj.io/sync-options: Prune=true, Replace=true, ServerSideApply=true, Validate=true
   name: swiggy-app
   labels:
     app: swiggy-app
@@ -11,7 +11,7 @@ spec:
   selector:
     matchLabels:
       app: swiggy-app
-  template:
+  template: 
     metadata:
       labels:
         app: swiggy-app
