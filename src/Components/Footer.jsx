@@ -22,17 +22,30 @@ function Footer() {
                     <h5 style={{color:"white"}}>Company</h5>
                     <p>About</p>
                     <p>Careers</p>
+                    <p>Team</p>
+                    <p>Swiggy One</p>
                     <p>Swiggy Instamart</p>
                     <p>Swiggy Genie</p>
                 </div>
                 <div style={{color:"#9e9e9e"}}>
                     <h5 style={{color:"white"}}>Contact us</h5>
+                    <p>Help & Support</p>
+                    <p>Partner with us</p>
+                    <p>Ride with us</p>
+                    <h5 style={{color:"white"}} className='mt-5'>Legal</h5>
+                    <p>Terms & Conditions</p>
+                    <p>Cokkie Policy</p>
+                    <p>Privacy Policy</p>
                 </div>
                 <div style={{color:"#9e9e9e"}}>
-                    <h5 style={{color:"white"}}>We may deliver to the following places:</h5>
-                    <p>Hyd</p>
+                    <h5 style={{color:"white"}}>We deliver to:</h5>
+                    <p>Bangalore</p>
+                    <p>Gurgaon</p>
+                    <p>Hyderabad</p>
+                    <p>Delhi</p>
                     <p>Mumbai</p>
-                    <button style={{padding:"10px",background:"transparent",color:"#9e9e9e",border:"2px solid rgba(196, 198, 202, 0.1)",borderRadius:"20px"}}>589 cities    <i className="ms-5 fa-solid fa-angle-down"></i></button>
+                    <p>Pune </p>
+                    <button style={{padding:"10px",background:"transparent",color:"#9e9e9e",border:"1px solid rgba(196, 198, 202, 0.1)",borderRadius:"20px"}}>589 cities    <i className="ms-5 fa-solid fa-angle-down"></i></button>
                 </div>
             </div>
        </div>
