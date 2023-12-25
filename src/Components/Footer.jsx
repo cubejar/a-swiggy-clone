@@ -38,7 +38,7 @@ function Footer() {
                     <p>Privacy Policy</p>
                 </div>
                 <div style={{color:"#9e9e9e"}}>
-                    <h5 style={{color:"white"}}>We deliver to:</h5>
+                    <h5 style={{color:"white"}}>We deliver to these locations:</h5>
                     <p>Bangalore</p>
                     <p>Gurgaon</p>
                     <p>Hyderabad</p>
